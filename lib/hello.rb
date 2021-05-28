@@ -8,6 +8,7 @@ def hello_t(array)
   else
     puts "Hey! No block was giiven!"
   end
+  array
 end
 
 # call your method here!
