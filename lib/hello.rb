@@ -6,7 +6,7 @@ def hello_t(array)
       i += 1
     end
   else
-    puts "Hey! No block was giiven!"
+    puts "Hey! No block was given!"
   end
   array
 end
